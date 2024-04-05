@@ -7,7 +7,5 @@
 - **Frameworks & Tools:** Node.js, Vue.js, Firebase, Socket.io, Git/GitHub, Figma
 - **Areas of Interest:** Full Stack Development, API Integration, Machine Learning (focus on model training and dataset development)
 
-🎯 I'm on a mission to merge my diverse experiences to forge accessible, efficient tech solutions that span various industries. Let's connect and collaborate on projects that push the envelope of what's possible in software engineering!
-
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jdcarrothers&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdcarrothers&layout=donut&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
