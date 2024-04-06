@@ -1,4 +1,4 @@
-👋 **Hey there!** I'm a passionate **full-stack developer** and **software innovation enthusiast**. My journey has equipped me with key skills such as multitasking, teamwork, and dynamic problem-solving, all of which I leverage in my software development projects. My academic pursuits in **Software Systems Development, Technology and Design**, and **Geography** have broadened my perspective and deepened my understanding of how technology can be used to solve complex problems.
+👋 **Hey there!** I'm a passionate **full-stack developer** and **software innovation enthusiast**.
 
 🚀 I've channeled my self-taught programming skills into creating **DevDuel**, a platform where developers can showcase their skills in real-time challenges. This project is a clear reflection of my expertise in **Vue.js, Node.js, Socket.io**, and **Firebase**, highlighting my knack for API integration, boosting UI/UX, and adept database management.
 
